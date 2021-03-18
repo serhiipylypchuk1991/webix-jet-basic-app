@@ -1,0 +1,21 @@
+export default {
+	"Dashboard" : "Dashboard",
+	"Users" : "Users",
+	"Products" : "Products",
+	"Film title" : "Film title",
+	"Released" : "Released",
+	"Votes" : "Votes",
+	"Rating" : "Rating",
+	"edit films" : "edit films",
+	"Title" : "Title",
+	"Year" : "Year",
+	"Save" : "Save",
+	"Clear" : "Clear",
+	"Add new person" : "Add new person",
+	"Demo App" : "Demo App",
+	"Sort asc" : "Sort asc",
+	"Sort desc" : "Sort desc",
+	"Age" : "Age",
+	"Price" : "Price",
+	"The software is provided by <a href='https://webix.com'>webix.com</a>. All rights reserved &#169;" : "The software is provided by <a href='https://webix.com'>webix.com</a>. All rights reserved &#169;"
+};

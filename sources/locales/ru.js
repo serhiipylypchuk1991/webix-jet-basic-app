@@ -1,0 +1,21 @@
+export default {
+	"Dashboard" : "Панель",
+	"Users" : "Пользователи",
+	"Products" : "Продукты",
+	"Film title" : "Название фильма",
+	"Released" : "Релиз",
+	"Votes" : "Голоса",
+	"Rating" : "Рейтинг",
+	"edit films" : "редактирование фильмов",
+	"Title" : "Имя",
+	"Year" : "Год",
+	"Save" : "Сохранить",
+	"Clear" : "Очистить",
+	"Add new person" : "Добавить юзера",
+	"Demo App" : "Демо приложение",
+	"Sort asc" : "А-Я",
+	"Sort desc" : "Я-А",
+	"Age" : "Возраст",
+	"Price" : "Цена",
+	"The software is provided by <a href='https://webix.com'>webix.com</a>. All rights reserved &#169;" : "Программное обеспечение предоставляется <a href='https://webix.com'>webix.com</a>. Все права защищены &#169;"
+};
