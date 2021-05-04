@@ -5,3 +5,9 @@
 .text_center {
     text-align: center;
 }
+
+.edit_list_item_btn, .remove_list_item_btn{
+  padding-top:5px;
+	padding-right:15px;
+  float:right;
+}

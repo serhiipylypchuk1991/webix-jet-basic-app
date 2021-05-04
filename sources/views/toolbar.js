@@ -4,7 +4,7 @@ export default class ToolbarView extends JetView{
 	config(){
 		const _ = this.app.getService("locale")._; //get method for translating labels
 
-		//get  Local value
+		//get Local value
 		const lang = this.app.getService("locale").getLang();
 		const toolbar = {
 			view:"toolbar",
@@ -29,7 +29,7 @@ export default class ToolbarView extends JetView{
 	//function to switch to another language
 	toggleLanguage(){
 		const langs = this.app.getService("locale"); //get Local service
-		
+
 		/*
 		 Use this.getRoot() to get to the top Webix widget inside a JetView
 		 Here it is Toolbar
